@@ -13,7 +13,9 @@ The remarkable features of the proposed algorithm are:
 
 • Easy control of the preservation rate by adjusting the input parameters.
 
-The implementation is in MATLAB 2019. Significant effort has been taken to make DR.LSH implementation as fast as possible.  
+The implementation is in MATLAB 2019. Significant effort has been taken to make DR.LSH implementation as fast as possible. 
+
+DRLSH_example.m shows some simple examples of using DR.LSH.  
 
 If you have used DR.LSH in a scientific publication and wish to cite it, please use: 
 
