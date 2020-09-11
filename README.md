@@ -18,3 +18,5 @@ It is based on the following paper:
 Mohammad Aslani, Stefan Seipel, A fast instance selection method for support vector machines in building extraction, Applied Soft Computing, 2020, 106716, ISSN 1568-4946.
 https://doi.org/10.1016/j.asoc.2020.106716
 
+The implementation is in MATLAB 2019. Significant effort has been taken to make DR.LSH implementation as fast as possible.  
+
