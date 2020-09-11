@@ -12,3 +12,7 @@ The remarkable features of the proposed algorithm are:
 • Satisfactorily preserving the extent of known classes
 
 • Easy control of the preservation rate by adjusting the input parameters.
+
+It is based on the following paper:
+
+Mohammad Aslani, Stefan Seipel, A fast instance selection method for support vector machines in building extraction, Applied Soft Computing, 2020, 106716, ISSN 1568-4946
