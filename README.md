@@ -15,4 +15,6 @@ The remarkable features of the proposed algorithm are:
 
 It is based on the following paper:
 
-Mohammad Aslani, Stefan Seipel, A fast instance selection method for support vector machines in building extraction, Applied Soft Computing, 2020, 106716, ISSN 1568-4946
+Mohammad Aslani, Stefan Seipel, A fast instance selection method for support vector machines in building extraction, Applied Soft Computing, 2020, 106716, ISSN 1568-4946.
+https://doi.org/10.1016/j.asoc.2020.106716
+
