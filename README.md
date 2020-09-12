@@ -1,6 +1,6 @@
 # Images in readme
 
-![](Images/DRLSH_original.jpg)
+![](Images/DataReduction.jpg)
 
 # DR.LSH
 DR.LSH - Data Reduction based on Locality Sensitive Hashing. DR.LSH is a fast instance selection method. Training classifiers, especially Support Vector Machines (SVM) on huge datasets is usually slow due to their high time complexities. 
