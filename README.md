@@ -2,6 +2,7 @@
 
 ![](images/DRLSH_original.jpg)
 
+# DR.LSH
 DR.LSH - Data Reduction based on Locality Sensitive Hashing. DR.LSH is a fast instance selection method. Training classifiers, especially Support Vector Machines (SVM) on huge datasets is usually slow due to their high time complexities. 
 DR.LSH alleviates this problem by quickly identifying and removing similar samples to a given sample according to a pre-defined similarity threshold.
 
@@ -17,9 +18,13 @@ The remarkable features of the proposed algorithm are:
 
 • Easy control of the preservation rate by adjusting the input parameters.
 
+# Implementation
+
 The implementation is in MATLAB 2019. Significant effort has been taken to make DR.LSH implementation as fast as possible. 
 
 DRLSH_example.m shows some simple examples of using DR.LSH.  
+
+# Citing
 
 If you have used DR.LSH in a scientific publication and wish to cite it, please use: 
 
