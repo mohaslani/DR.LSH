@@ -1,5 +1,3 @@
-# Images in readme
-
 ![](Images/DataReduction.jpg)
 
 # DR.LSH
