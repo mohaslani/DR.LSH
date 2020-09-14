@@ -26,5 +26,5 @@ DRLSH_example.m shows some simple examples of using DR.LSH.
 
 If you have used DR.LSH in a scientific publication and wish to cite it, please use: 
 
-Mohammad Aslani, Stefan Seipel, A fast instance selection method for support vector machines in building extraction, Applied Soft Computing, 2020, 106716, ISSN 1568-4946.
+M. Aslani, S. Seipel, A fast instance selection method for support vector machines in building extraction, Applied Soft Computing, 2020, 106716, ISSN 1568-4946.
 https://doi.org/10.1016/j.asoc.2020.106716
